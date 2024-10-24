@@ -10,7 +10,7 @@ def gaussian(x, a, b, c, d):
     return val
 
 # number of iterations
-nit=1000
+nit=2000
 
 # array to store the result of each iteration
 result = np.zeros(nit)
